@@ -263,14 +263,6 @@ All scenarios match.
 
 The script exits non-zero if any scenario differs, so it can run in CI.
 
-### ADK agent transcript (Gemini)
-
-<!-- TODO(author): paste a genuine transcript from `adk run ci_triage_agent` here, e.g. for
-     "triage samples/unknown/junit.xml with log samples/unknown/ci.log". Do not edit it. -->
-
-_To be filled with a real run._
-
----
 
 ## Testing
 
